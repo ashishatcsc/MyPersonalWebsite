@@ -1,3 +1,23 @@
 body{
-    background-color: aqua
+    background-color: #EAF6F6;
+}
+
+hr{
+    background-color: white;
+    border-style: none;
+    height: 2px;
+    width: 5%;
+    /* top | right | bottom | left */
+    border-style: none none dotted none; 
+    border-width: 5px;
+    border-color: grey;
+    
+}
+
+h1{
+    color: #66BFBF;
+}
+
+h3{
+    color: #66BFBF;
 }
